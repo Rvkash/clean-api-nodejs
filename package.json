@@ -7,6 +7,10 @@
     "test": "jest"
   },
 
+  "standard": {
+    "env": ["jest"]
+  },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Rvkash/clean-api-nodejs.git"
