@@ -6,6 +6,19 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
+  "lint-staged": {
+    "*.js": [
+      "standard --fix"
+    ]
+  },
+
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+    
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Rvkash/clean-api-nodejs.git"
@@ -17,6 +30,8 @@
   },
   "homepage": "https://github.com/Rvkash/clean-api-nodejs#readme",
   "devDependencies": {
-    "lint-staged": "^10.1.7"
+    "lint-staged": "^10.1.7",
+    "standard": "^14.3.3"
+    
   }
 }
