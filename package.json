@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Rvkash/clean-api-nodejs/issues"
   },
-  "homepage": "https://github.com/Rvkash/clean-api-nodejs#readme"
+  "homepage": "https://github.com/Rvkash/clean-api-nodejs#readme",
+  "devDependencies": {
+    "lint-staged": "^10.1.7"
+  }
 }
