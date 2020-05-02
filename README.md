@@ -8,8 +8,5 @@
 | 400 | BAD REQUEST |
 | 500 | INTERNAL SERVER ERROR |
 
-📝 Licence
-
-MIT Licence
 
 Thanks to support 👉 [Mango](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA)
