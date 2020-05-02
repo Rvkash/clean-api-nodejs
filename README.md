@@ -6,7 +6,7 @@
 | --- | --- |
 | 200 | OK |
 | 400 | BAD REQUEST |
-| 401 | Unauthorized |
+| 401 | UNAUTHORIZED |
 | 500 | INTERNAL SERVER ERROR |
 
 
