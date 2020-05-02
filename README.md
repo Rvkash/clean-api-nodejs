@@ -8,7 +8,7 @@
 | 400 | BAD REQUEST |
 | 500 | INTERNAL SERVER ERROR |
 
-📝 #Licence
+📝 # Licence
 
 MIT Licence
 
