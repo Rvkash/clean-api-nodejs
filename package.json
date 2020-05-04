@@ -4,8 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watch",
-    "test:staged": "jest --passWithoTests --findRelatedTests --silent"
+    "test": "jest --watchAll --silent --noStackTrace",
+    "test:staged": "jest --passWithoTests --findRelatedTests --silent --noStackTrace",
+    "test:ci": "jest --coverage"
   },
 
   "standard": {
