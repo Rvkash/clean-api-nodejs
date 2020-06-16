@@ -2,11 +2,9 @@
     <img alt="Launchbase" src="https://nextsoftware.io/files/images/logos/main/nodejs-logo.png" />
 </h1>
 
-<h1 align="center">
-# Nodejs clean api architecture, with TDD tests
-</h1>
-
-
+<h3 align="center">
+Nodejs clean api architecture, with TDD tests
+</h3>
 
 
 | Status | Description |
