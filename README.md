@@ -17,4 +17,3 @@ Nodejs clean api architecture, with TDD tests
 
 
 Made by 👉  [Rafael Linhares](https://www.linkedin.com/in/rafael-linhares-js/)
-Thanks to support 👉 [Mango](https://www.youtube.com/channel/UCabelTt5YHot17aKb19VRNA)
