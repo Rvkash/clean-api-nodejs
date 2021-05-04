@@ -1,6 +1,4 @@
-<h1 align="center">
-    <img alt="CleanApi" src="https://nextsoftware.io/files/images/logos/main/nodejs-logo.png" />
-</h1>
+
 
 <h3 align="center">
 Nodejs clean api architecture, with TDD tests
