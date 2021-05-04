@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Launchbase" src="https://nextsoftware.io/files/images/logos/main/nodejs-logo.png" />
+    <img alt="CleanApi" src="https://nextsoftware.io/files/images/logos/main/nodejs-logo.png" />
 </h1>
 
 <h3 align="center">
